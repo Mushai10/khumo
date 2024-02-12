@@ -1,0 +1,9 @@
+Date:  02-01-2023
+
+Version: 2.0.0
+
+===================
+
+01. NextJS v12.2.5 to v13.1.1 has been updated.
+01. Swiper slider v8.3.2 to v8.4.5 along with some inconsistency issues have been fixed.
+01. & all other necessary packages have been updated to the latest version.
